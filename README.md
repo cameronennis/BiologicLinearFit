@@ -1,0 +1,1 @@
+This is a simple program for the Biologic software to get the Bulk Resistance value from your linear fit. Simply copy the text in the resulting window after executing a linear fit, and this program will directly parse the text and calculate bulk resistance.
